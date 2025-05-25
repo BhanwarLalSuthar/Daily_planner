@@ -12,5 +12,5 @@ A simple task planner web application that allows users to add, complete, delete
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>daily-planner.git
+   https://github.com/BhanwarLalSuthar/Daily_planner.git
    cd daily-planner
